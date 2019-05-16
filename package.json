@@ -1,0 +1,19 @@
+{
+  "name": "app-magic-trick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajmdag/node-app-magic-trick.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajmdag/node-app-magic-trick/issues"
+  },
+  "homepage": "https://github.com/Ajmdag/node-app-magic-trick#readme"
+}
